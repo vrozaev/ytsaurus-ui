@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.11.0](https://github.com/vrozaev/ytsaurus-ui/compare/javascript-wrapper-v0.10.3...javascript-wrapper-v0.11.0) (2024-12-12)
+
+
+### Features
+
+* **javascript-wrapper:** add new commands for pipelines [YTFRONT-3978] ([da70313](https://github.com/vrozaev/ytsaurus-ui/commit/da70313424b8042e6782d8fe9a642c9703465d54))
+
+
+### Bug Fixes
+
+* **axios/withXSRFToken:** additional to 19df8249298397c09af6cee2bdc682ffe08c8836 ([9c3e893](https://github.com/vrozaev/ytsaurus-ui/commit/9c3e893fdfd25eed5cccfa2ac4fab950a4f8c05d))
+* **axios:** use withXSRFToken ([19df824](https://github.com/vrozaev/ytsaurus-ui/commit/19df8249298397c09af6cee2bdc682ffe08c8836))
+* **javascript-wrapper:** add_maintenance/remove_maintenance are available in v4 [YTFRONT-4480] ([b554a0f](https://github.com/vrozaev/ytsaurus-ui/commit/b554a0f037a04481c96bd0b5afe6c55e635dc5dd))
+* **javascript-wrapper:** use devDependencies for linting packages ([aef7341](https://github.com/vrozaev/ytsaurus-ui/commit/aef73412a9f2468121edaed99aaa4a53c5797c7a))
+* **javascript-wrapper:** use POST-request to read tables [YTFRONT-4259] ([d0b2cc3](https://github.com/vrozaev/ytsaurus-ui/commit/d0b2cc321816dc019a3e8fc64af89e3937671e79))
+* **package.json:** fix for 'repository.url' ([72f7a8f](https://github.com/vrozaev/ytsaurus-ui/commit/72f7a8f95e295b7a267f5ef1627bb013260fbe1f))
+
 ## [0.10.3](https://github.com/ytsaurus/ytsaurus-ui/compare/javascript-wrapper-v0.10.2...javascript-wrapper-v0.10.3) (2024-11-13)
 
 
